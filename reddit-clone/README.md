@@ -1,4 +1,4 @@
-# redditclone
+# reddit-clone
 
 ## Project setup
 ```
